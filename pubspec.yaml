@@ -1,0 +1,48 @@
+name: MotionIQ
+description: MotionIQ AI Fitness Coach - A Senior Architect approach to AI Pose Detection.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Camera and AI
+  camera: ^0.11.0
+  google_mlkit_pose_detection: ^0.13.0
+  google_mlkit_commons: ^0.9.0
+
+  # Firebase
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+  google_sign_in: ^6.2.1
+
+  # State Management & DI
+  provider: ^6.1.2
+  get_it: ^7.7.0
+
+  # UI & Charts
+  fl_chart: ^0.68.0
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  vector_math: ^2.1.4
+
+  # Local Storage & Sync
+  shared_preferences: ^2.3.2
+
+  # Voice Coach
+  flutter_tts: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.9
+
+flutter:
+  uses-material-design: true
