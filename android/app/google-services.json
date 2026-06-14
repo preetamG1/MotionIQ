@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577801733435",
+    "project_id": "motioniq-9e8a3",
+    "storage_bucket": "motioniq-9e8a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577801733435:android:7bb32025d5822a0803a31e",
+        "android_client_info": {
+          "package_name": "com.motioniq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577801733435-k5b9foar8khagap7tpeqp6l7f1qtkmib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzaJ_4Uw-c4YQarrvQcOSqq8AdnmYDNZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577801733435-k5b9foar8khagap7tpeqp6l7f1qtkmib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
